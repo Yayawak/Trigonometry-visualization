@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/Trigonometry 101/7.WhatIsCofunction/media/videos/7/480p15/partial_movie_files/CoF/1628528466_3205142481_3301670944.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/Trigonometry 101/7.WhatIsCofunction/media/videos/7/480p15/partial_movie_files/CoF/1239238897_2930364816_4034311996.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/Trigonometry 101/7.WhatIsCofunction/media/videos/7/480p15/partial_movie_files/CoF/1239238897_636284575_3564398982.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/Trigonometry 101/7.WhatIsCofunction/media/videos/7/480p15/partial_movie_files/CoF/1239238897_3546637842_569400299.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/Trigonometry 101/7.WhatIsCofunction/media/videos/7/480p15/partial_movie_files/CoF/1239238897_1217532684_3175532762.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/Trigonometry 101/7.WhatIsCofunction/media/videos/7/480p15/partial_movie_files/CoF/1239238897_2675690601_1925653084.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/Trigonometry 101/7.WhatIsCofunction/media/videos/7/480p15/partial_movie_files/CoF/1239238897_1441959293_507135645.mp4'

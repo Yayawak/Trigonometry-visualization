@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/3163782288_2678592090_1547043230.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/607903841_3059553997_2050587976.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/607903841_3725195314_4066668321.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/607903841_3466882479_2375670245.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/607903841_985098049_3991163594.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/607903841_2562120269_4036559000.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/607903841_3466882479_679048605.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/607903841_1243286211_1979158914.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/607903841_3532995857_1634751645.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/GraphOfTrig/media/videos/trgiGraph/480p15/partial_movie_files/WaveComponents/607903841_3466882479_3498644151.mp4'

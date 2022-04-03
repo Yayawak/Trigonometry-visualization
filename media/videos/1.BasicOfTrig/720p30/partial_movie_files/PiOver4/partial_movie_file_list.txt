@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/media/videos/1.BasicOfTrig/720p30/partial_movie_files/PiOver4/1342159004_3205142481_3301670944.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/media/videos/1.BasicOfTrig/720p30/partial_movie_files/PiOver4/1357154416_336445575_4034311996.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/media/videos/1.BasicOfTrig/720p30/partial_movie_files/PiOver4/1357154416_3846622954_1002650560.mp4'
+file 'file:/home/liberio/Documents/Mathematics/Trigonometry/media/videos/1.BasicOfTrig/720p30/partial_movie_files/PiOver4/1357154416_3466882479_1973462475.mp4'
